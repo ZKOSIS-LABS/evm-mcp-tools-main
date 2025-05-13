@@ -2,6 +2,10 @@
 
 A comprehensive toolkit for Ethereum blockchain analysis directly within Claude AI using Model Context Protocol (MCP).
 
+
+https://github.com/user-attachments/assets/714cacf6-72eb-453e-9cc4-f29ef4826525
+
+
 ## Features
 
 - **Smart Contract Audit**: Analyze contracts for security issues, verify source code, and detect token standards
